@@ -69,20 +69,20 @@ print(df.head())
 | art.care        | premium   | $520      | $520          | 90             | 52     | 3      | namecheap        |
 | dark.care       | available | $29.99    | $56.99        | 52             | 40     | 4      | name.com         |
 | news.care       | resell    | —         | —             | 82             | 64     | 4      | Spaceship, Inc.  |
-| content.care    | premium   | $42.90    | $42.90        | 138            | 43     | 7      | namecheap        |
+| wizard.care     | premium   | $123.75   | $123.75       | 118            | 43     | 6      | name.com         |
 | drop.care       | available | $29.99    | $56.99        | 86             | 38     | 4      | name.com         |
 | sense.care      | resell    | —         | —             | 102            | 63     | 5      | GoDaddy.com, LLC |
-| wizard.care     | premium   | $123.75   | $123.75       | 118            | 43     | 6      | name.com         |
+| strategy.care   | premium   | $260      | $260          | 74             | 43     | 8      | namecheap        |
 | order.care      | available | $29.99    | $56.99        | 78             | 38     | 5      | name.com         |
 | home.care       | resell    | —         | —             | 100            | 62     | 4      | GoDaddy.com, LLC |
-| strategy.care   | premium   | $260      | $260          | 74             | 43     | 8      | namecheap        |
+| realestate.care | premium   | $520      | $520          | —              | 40     | 11     | namecheap        |
 | streaming.care  | available | $59.98    | —             | 88             | 35     | 9      | namecheap        |
 | mail.care       | resell    | —         | —             | 94             | 59     | 4      | Spaceship, Inc.  |
-| realestate.care | premium   | $520      | $520          | —              | 40     | 11     | namecheap        |
+| content.care    | premium   | $42.90    | $42.90        | 138            | 39     | 7      | namecheap        |
 | goon.care       | available | $29.99    | $56.99        | 80             | 35     | 5      | name.com         |
 | the.care        | resell    | —         | —             | 98             | 58     | 3      | Spaceship, Inc.  |
 | system.care     | premium   | $260      | $520          | 76             | 38     | 6      | namecheap        |
-| hidden.care     | available | $29.99    | $56.99        | 65             | 35     | 6      | name.com         |
+| menu.care       | available | $59.98    | —             | 70             | 34     | 4      | namecheap        |
 | blue.care       | resell    | —         | —             | 92             | 58     | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
