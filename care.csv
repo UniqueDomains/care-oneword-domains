@@ -661,6 +661,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c289e5d-1508-4fac-9e4d-34043a245d59,moveahead.care,available,29.99,,76,6,10,name.com,,
 3c35fd93-4fa7-4882-b632-9d0e807125fd,gonefishing.care,available,29.99,,72,7,12,name.com,,
 3c4fff4c-1799-4d03-b6c9-115559cd0642,multipurpose.care,available,29.99,,54,4,13,name.com,,
+3c6b31df-33b4-4122-b8cb-92f55cbc627e,prairie.care,resell,,,62,15,7,"GoDaddy.com, LLC",15/08/2015 16:28,15/08/2026 16:28
 3c6bb2b8-e505-42b0-8260-8538323d796c,manycoloured.care,available,29.99,,60,1,13,name.com,,
 3c722e51-41d6-4c50-a1cc-2598169e7808,toneup.care,available,29.99,,80,5,7,name.com,,
 3c80a344-3f33-4134-a82d-433d1ff38e40,constraints.care,available,29.99,,44,2,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59b6773f-4f8c-462d-a104-51b0baff0159,gettheidea.care,available,29.99,,79,0,12,name.com,,
 5a036226-5124-4ebd-843e-5ba10a61622c,commented.care,available,29.99,,48,2,9,name.com,,
 5a0ffd31-15b9-46f3-af74-965bccbb3b58,labels.care,available,29.99,,56,16,6,name.com,,
-5a23c888-07f8-4383-9b6c-97974191ed80,opens.care,available,29.99,,60,11,5,name.com,,
