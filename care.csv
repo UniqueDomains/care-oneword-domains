@@ -64,7 +64,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 05235db4-3ba5-45c9-8126-e8fe533cb077,worded.care,available,29.99,,53,4,6,name.com,,
 0523d203-4d7b-4106-91a0-4c146868d39a,rained.care,available,29.99,,50,4,6,name.com,,
 0526603e-bed4-4255-8f66-c1410ec64649,sirens.care,available,29.99,,48,11,6,name.com,,
-05299031-d733-4cbc-877b-88384526f870,covid.care,resell,,,74,23,5,Dynadot Inc,18/07/2022 13:15,18/07/2026 13:15
+05299031-d733-4cbc-877b-88384526f870,covid.care,resell,,,74,22,5,Dynadot Inc,18/07/2022 13:15,18/07/2026 13:15
 052fb75d-e938-44d9-a9f5-9d6cb6ffb889,wipes.care,available,29.99,,56,8,5,name.com,,
 05677726-6f9f-425a-a493-29ef8098e4b9,alcoves.care,available,29.99,,48,3,7,name.com,,
 056e2103-e408-40e2-9d7c-75543c014483,motorsports.care,available,29.99,,74,13,11,name.com,,
