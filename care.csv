@@ -356,7 +356,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1e44a1b1-1e5b-45a6-bcac-e16db6c011b4,platepaper.care,available,29.99,,66,0,11,name.com,,
 1e7de2a3-e800-4439-90d0-6952a80b0977,chickenofthesea.care,available,29.99,,68,2,18,name.com,,
 1e8413c5-b1be-45bc-809a-d09390940fcb,spaces.care,available,29.99,,54,30,6,name.com,,
-1e8d3861-02d4-4c43-a626-a82dcf7bcde8,intelligence.care,resell,,,84,38,12,"Spaceship, Inc.",24/05/2023 00:08,24/05/2026 00:08
 1e9676ac-25c6-40e0-8c4c-bb81cf236e5d,commonheather.care,available,29.99,,64,1,14,name.com,,
 1ea0df51-5127-44ab-bdfb-21c2365b7e9b,shareholders.care,available,29.99,,50,5,12,name.com,,
 1ea4b536-dcdc-4fe3-a2b5-7e8efbf04ed8,monkeys.care,available,29.99,,56,13,7,name.com,,
@@ -999,3 +998,4 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59b6773f-4f8c-462d-a104-51b0baff0159,gettheidea.care,available,29.99,,79,0,12,name.com,,
 5a036226-5124-4ebd-843e-5ba10a61622c,commented.care,available,29.99,,48,2,9,name.com,,
 5a0ffd31-15b9-46f3-af74-965bccbb3b58,labels.care,available,29.99,,56,16,6,name.com,,
+5a23c888-07f8-4383-9b6c-97974191ed80,opens.care,available,29.99,,60,11,5,name.com,,
