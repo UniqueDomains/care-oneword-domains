@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .care one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,855 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,855 domains · **Median ask:** $37.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,855 domains · **Median ask:** $35.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/care`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/care`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| matcha.care      | available | $29.99    | —             | 86             | 39     | 6      | name.com         |
-| fit.care         | resell    | —         | —             | 88             | 41     | 3      | Porkbun LLC      |
-| etc.care         | premium   | $140      | $280          | 58             | 32     | 3      | namecheap        |
-| aliens.care      | available | $29.99    | —             | 56             | 35     | 6      | name.com         |
-| coins.care       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc      |
-| SanDiego.care    | premium   | $69.30    | $138.60       | 74             | 29     | 9      | namecheap        |
-| slots.care       | available | $29.99    | —             | 49             | 31     | 5      | name.com         |
-| risk.care        | resell    | —         | —             | 62             | 36     | 4      | Porkbun LLC      |
-| loans.care       | premium   | $280      | $560          | 58             | 24     | 5      | namecheap        |
-| spaces.care      | available | $29.99    | —             | 54             | 30     | 6      | name.com         |
-| twin.care        | resell    | —         | —             | 68             | 33     | 4      | Sav.com, LLC     |
-| coupons.care     | premium   | $280      | $560          | 52             | 24     | 7      | namecheap        |
-| Trex.care        | available | $59.98    | —             | 80             | 24     | 5      | namecheap        |
-| inspiration.care | resell    | —         | —             | 88             | 27     | 11     | Spaceship, Inc.  |
-| pros.care        | premium   | $69.30    | $138.60       | 53             | 23     | 4      | namecheap        |
-| whats.care       | available | $29.99    | —             | 58             | 24     | 5      | name.com         |
-| wakeup.care      | resell    | —         | —             | 80             | 23     | 7      | GoDaddy.com, LLC |
-| signs.care       | premium   | $69.30    | $138.60       | 64             | 22     | 5      | namecheap        |
-| reports.care     | available | $29.99    | —             | 58             | 24     | 7      | name.com         |
-| covid.care       | resell    | —         | —             | 74             | 22     | 5      | Dynadot Inc      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| impossible.care | available | $29.99    | —             | 74             | 37     | 10     | name.com                                                  |
+| crystal.care    | resell    | $23.10    | $46.20        | 70             | 37     | 7      | Spaceship, Inc.                                           |
+| link.care       | premium   | $280      | $560          | 68             | 53     | 4      | namecheap                                                 |
+| dig.care        | available | $29.99    | —             | 74             | 33     | 3      | name.com                                                  |
+| flow.care       | resell    | —         | —             | 96             | 68     | 4      | Sav.com, LLC                                              |
+| its.care        | premium   | $69.30    | $138.60       | 78             | 43     | 3      | namecheap                                                 |
+| ring.care       | available | $29.99    | —             | 66             | 32     | 4      | name.com                                                  |
+| mail.care       | resell    | —         | —             | 94             | 60     | 4      | Spaceship, Inc.                                           |
+| glass.care      | premium   | $280      | $560          | 68             | 34     | 5      | namecheap                                                 |
+| four.care       | available | $29.99    | $56.99        | 66             | 30     | 4      | name.com                                                  |
+| national.care   | resell    | —         | —             | 78             | 55     | 8      | GoDaddy.com, LLC                                          |
+| sale.care       | premium   | $69.30    | $138.60       | 76             | 33     | 4      | namecheap                                                 |
+| loft.care       | available | $29.99    | —             | 64             | 30     | 4      | name.com                                                  |
+| data.care       | resell    | —         | —             | 84             | 54     | 4      | GoDaddy.com, LLC                                          |
+| jay.care        | premium   | $140      | $280          | 69             | 33     | 3      | namecheap                                                 |
+| draw.care       | available | $29.99    | —             | 98             | 29     | 4      | name.com                                                  |
+| self.care       | resell    | —         | —             | 64             | 50     | 4      | GoDaddy.com, LLC                                          |
+| expert.care     | premium   | $500      | $500          | 104            | 32     | 6      | name.com                                                  |
+| mouse.care      | available | $29.99    | —             | 62             | 28     | 5      | name.com                                                  |
+| simple.care     | resell    | —         | —             | 128            | 49     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARE One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
