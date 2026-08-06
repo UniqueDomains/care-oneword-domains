@@ -1,10 +1,10 @@
-# Available .CARE One-Word Domains (10,855)
+# Available .CARE One-Word Domains (10,865)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C855%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C865%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .care one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,855 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,865 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,855 domains · **Median ask:** $35.41 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,865 domains · **Median ask:** $32.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/care`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CARE one-word domain 
 
 ### Files
 
-- `care.csv` — public CSV extract (1,000 rows)
-- `care.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `care.csv`, public CSV extract (1,000 rows)
+- `care.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| impossible.care | available | $29.99    | —             | 74             | 37     | 10     | name.com                                                  |
-| crystal.care    | resell    | $23.10    | $46.20        | 70             | 37     | 7      | Spaceship, Inc.                                           |
-| link.care       | premium   | $280      | $560          | 68             | 53     | 4      | namecheap                                                 |
-| dig.care        | available | $29.99    | —             | 74             | 33     | 3      | name.com                                                  |
-| flow.care       | resell    | —         | —             | 96             | 68     | 4      | Sav.com, LLC                                              |
-| its.care        | premium   | $69.30    | $138.60       | 78             | 43     | 3      | namecheap                                                 |
-| ring.care       | available | $29.99    | —             | 66             | 32     | 4      | name.com                                                  |
-| mail.care       | resell    | —         | —             | 94             | 60     | 4      | Spaceship, Inc.                                           |
-| glass.care      | premium   | $280      | $560          | 68             | 34     | 5      | namecheap                                                 |
-| four.care       | available | $29.99    | $56.99        | 66             | 30     | 4      | name.com                                                  |
-| national.care   | resell    | —         | —             | 78             | 55     | 8      | GoDaddy.com, LLC                                          |
-| sale.care       | premium   | $69.30    | $138.60       | 76             | 33     | 4      | namecheap                                                 |
-| loft.care       | available | $29.99    | —             | 64             | 30     | 4      | name.com                                                  |
-| data.care       | resell    | —         | —             | 84             | 54     | 4      | GoDaddy.com, LLC                                          |
-| jay.care        | premium   | $140      | $280          | 69             | 33     | 3      | namecheap                                                 |
-| draw.care       | available | $29.99    | —             | 98             | 29     | 4      | name.com                                                  |
-| self.care       | resell    | —         | —             | 64             | 50     | 4      | GoDaddy.com, LLC                                          |
-| expert.care     | premium   | $500      | $500          | 104            | 32     | 6      | name.com                                                  |
-| mouse.care      | available | $29.99    | —             | 62             | 28     | 5      | name.com                                                  |
-| simple.care     | resell    | —         | —             | 128            | 49     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| dig.care     | available | $29.99    | —             | high           | low    | 3      | name.com         |
+| crystal.care | resell    | $23.10    | $46.20        | high           | low    | 7      | Spaceship, Inc.  |
+| its.care     | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap        |
+| dvd.care     | available | $29.99    | —             | high           | low    | 3      | name.com         |
+| day.care     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| jay.care     | premium   | $140      | $280          | medium         | low    | 3      | namecheap        |
+| jan.care     | available | $29.99    | —             | high           | low    | 3      | name.com         |
+| dip.care     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| leg.care     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap        |
+| sly.care     | available | $29.99    | $56.99        | medium         | low    | 3      | name.com         |
+| dna.care     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| mum.care     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap        |
+| tow.care     | available | $29.99    | —             | medium         | low    | 3      | name.com         |
+| gun.care     | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
+| pot.care     | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| ugh.care     | available | $29.99    | —             | medium         | low    | 3      | name.com         |
+| cyan.care    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5 |
+| anal.care    | premium   | $260      | $520          | low            | low    | 4      | namecheap        |
+| UML.care     | available | $29.99    | —             | high           | low    | 3      | name.com         |
+| flow.care    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,855 live domains                        |
+| 1,000-row public sample | 10,865 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .care domains, so the main variable is the word itself rather than the extension. The selection mixes directly relevant names such as critical.care with broader or less intuitive options like thirteen.care, flickering.care, and qualitative.care. That creates a wide range of use cases and quality levels. For founders, the best picks are usually the names that read clearly, feel credible, and are easy to say aloud. For investors, the key is whether the word has obvious commercial relevance inside a .care context. With a median ask of 37.24, entry cost is low enough that selection discipline matters more than headline price.
+This is a daily-updated set of one-word .care domain names, spanning 506 TLD variants tracked alongside the core .care extension. Most entries are low-cost: 9,426 of the 10,865 domains ask under $500, with a median price near $32. Demand skews low across the set, with only 11 domains scoring in the mid-to-top demand tiers, meaning most of these names carry minimal built-in buyer pressure and rely on brandability rather than existing traction.
 
-- All names in this selection use the .care extension
-- Median ask is 37.24 across 10,842 domains
-- Clarity varies from exact-match to abstract words
-- Check trademark exposure on names like indeed.care
+- 10,865 .care domains tracked, updated daily
+- Median ask ~$32; 9,426 priced under $500
+- 10,121 available now, 385 premium, 359 resell
+- 11 domains in mid-to-top demand tiers
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARE One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARE One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
