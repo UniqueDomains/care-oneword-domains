@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .care one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,796 domains · **Median ask:** $20.02 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/care`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| great.care   | resell    | —         | —             | high           | low    | 5      | 1API GmbH        |
+| damn.care    | available | $29.99    | $56.99        | high           | low    | 4      | name.com         |
+| time.care    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 | dig.care     | available | $29.99    | —             | high           | low    | 3      | name.com         |
 | crystal.care | resell    | $23.10    | $46.20        | high           | low    | 7      | Spaceship, Inc.  |
 | ass.care     | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap        |
@@ -81,9 +84,6 @@ print(df.head())
 | mum.care     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap        |
 | ugh.care     | available | $29.99    | —             | medium         | low    | 3      | name.com         |
 | cyan.care    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5 |
-| pot.care     | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| UML.care     | available | $29.99    | —             | high           | low    | 3      | name.com         |
-| data.care    | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
